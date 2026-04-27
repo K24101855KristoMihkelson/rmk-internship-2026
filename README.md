@@ -28,3 +28,9 @@ Skript on kirjutatud Pythonis. See tõmbab andmed dünaamiliselt API-st, teeb an
 
 ##  Litsents
 Selle projekti kood on vaba kasutamiseks ja õppimiseks (MIT litsents).
+
+## Lõpptulemus 
+<img width="977" height="559" alt="image" src="https://github.com/user-attachments/assets/87008464-7c8a-4e2c-9a8c-c4d494c078fa" />
+<img width="977" height="559" alt="image" src="https://github.com/user-attachments/assets/23dc5636-288d-47aa-a1bb-01a0e0391f8d" />
+
+
