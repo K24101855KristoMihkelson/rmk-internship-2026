@@ -101,3 +101,4 @@ if __name__ == "__main__":
                      pad=20)
         plt.savefig('toenaosuste_skaala.png', bbox_inches='tight', dpi=300)
         plt.show() 
+
